@@ -9,3 +9,7 @@ First file is CNN_Sentiment_Analysis.ipynb
 Second file is FastText_Sentiment_Analysis.ipynb
 
 I have also uploaded the python files. The code can be executed in both Jupyter notebook as well as Google Colab
+
+
+I have taken the help of the following GitHub repository to understand and implement this logic -
+https://github.com/bentrevett/pytorch-sentiment-analysis.git
