@@ -1,4 +1,4 @@
-This is a repository for my research methods class.
+This is a repository for my research methodology class.
 
 ## sentiment-analysis-using-deep-learning-techniques
 The main objective is to assess different deep learning techniques used for sentiment analysis. The fundamental idea behind this work is to use PyTorch to develop convolution neural networks to train and classify movie review sentiment classes. The sentiment of new movies may be predicted using this CNN model. I also developed the FastText model and compared both CNN and FastText models.
